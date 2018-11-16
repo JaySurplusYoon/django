@@ -12,15 +12,14 @@
 
 ### 2)어떻게 설치할까?
 ###   -PowerShell로 필요한 위치에 디렉토리 생성
-      'mkdir 디렉토리명'
+      mkdir 디렉토리명
 ###   -해당 디렉토리에서 가상환경 설정
-      'python -m venv 가상환경명
+      python -m venv 가상환경명
 ###   -가상환경 실행해보기
-      'virtualenv설치경로\가상환경명\Scripts>activate'
+      virtualenv설치경로\가상환경명\Scripts>activate
             
 어떤가, 실행이 잘 되었는가?
 
 그렇다면 다음 스텝을 위해 activate된 가상환경을 종료해보도록 하겠다.
 
-      'virtualenv설치경로\가상환경명\Scripts>deactivate'
-
+      virtualenv설치경로\가상환경명\Scripts>deactivate
