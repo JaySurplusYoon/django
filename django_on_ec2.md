@@ -10,6 +10,5 @@
   sudo apt-get install python3-myvenv
   ```
   
-  
-  EC2에 포트 여는법
+- EC2에 포트 여는법
   https://wayhome25.github.io/django/2018/03/03/django-deploy-03-ec2/
